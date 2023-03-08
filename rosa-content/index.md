@@ -21,4 +21,4 @@ Get experience with, and an informed view of Red Hat OpenShift Service on AWS.
 
 **Bonus experience!**
 
-Meet the ROSA Product Manager and real ROSA SREs who maintain the platform. Hear their stories and ask them questions during the special Q&A segments.
+Meet the **ROSA Product Manager** and real **ROSA SREs** who maintain the platform. Hear their stories and ask them questions during the special Q&A segments.
