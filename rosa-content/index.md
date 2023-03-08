@@ -7,7 +7,7 @@ Join your friendly NAPS Ministriy of Hyperscalers for a hands-on workshop with R
 
 During the event, your Ministry of Hyperscaler SMEs (Superficially-Minded Entertainers) and other Red Hat Cloud Services experts will guide you through the ROSA architecture and will answer your questions. 
 
-**Who should attend:** This full-day, in-person workshop is ideal for developers, architects and operations engineers who need a flexible and proven platform to build, deploy and scale applications.
+**Who should attend:** This two-day, in-person workshop is ideal for **Consulting Architects, Solution Architects, Technical Account Managers and _talented_ SSPs** who need to develop an understanding of how to build, deploy and scale applications on ROSA.
 
 **What to expect:** During the workshop, we will take you through a series of content to help you understand some of the concepts of deploying container-based applications on Red Hat OpenShift Service on AWS and how to operate an Red Hat OpenShift Service on AWS cluster. We will cover the following:
 
@@ -18,3 +18,7 @@ During the event, your Ministry of Hyperscaler SMEs (Superficially-Minded Entert
 - Learn how to use OpenShift Service Mesh for application observability and tracing
 
 Get experience with, and an informed view of Red Hat OpenShift Service on AWS.
+
+**Bonus experience!**
+
+Meet the ROSA Product Manager and real ROSA SREs who maintain the platform. Hear their stories and ask them questions during the special Q&A segments.
