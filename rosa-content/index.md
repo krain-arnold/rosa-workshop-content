@@ -1,7 +1,11 @@
 <!-- ![home-page-image](./assets/images/home-page.png){ align=center } -->
 
 ## Overview
-Join Red Hat for a hands-on workshop with Red Hat OpenShift Service on AWS (ROSA). During the event, Red Hat Cloud Services experts will guide you through the ROSA architecture and will answer your questions. 
+Welcome, Red Hatters supporting FBI!
+
+Join your friendly NAPS Ministriy of Hyperscalers for a hands-on workshop with Red Hat OpenShift Service on AWS (ROSA). 
+
+During the event, your Ministry of Hyperscaler SMEs (Superficially-Minded Entertainers) and other Red Hat Cloud Services experts will guide you through the ROSA architecture and will answer your questions. 
 
 **Who should attend:** This full-day, in-person workshop is ideal for developers, architects and operations engineers who need a flexible and proven platform to build, deploy and scale applications.
 
