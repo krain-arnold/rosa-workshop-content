@@ -1,12 +1,12 @@
 # Project Information
-site_name: MOBB ROSA Workshop
-site_url: https://ws.mobb.cloud/
+site_name: ROSA Workshop
+site_url: https://rosa.rh-workshops.cloud/
 site_description: A workshop focused on ROSA for operations and development teams.
 site_author: Red Hat
 
 # Repository
-repo_name: rh-mobb/rosa-workshop-content
-repo_url: https://github.com/rh-mobb/rosa-workshop-content
+repo_name: bizquigs/rosa-workshop-content
+repo_url: https://github.com/bizquigs/rosa-workshop-content
 
 # Nav Menu Definition
 nav:
@@ -56,7 +56,7 @@ plugins:
 - macros
 
 extra:
-  aws_region: eu-central-1
+  aws_region: us-east-2
 
 # Extensions
 markdown_extensions:
